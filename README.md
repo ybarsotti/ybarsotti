@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ybarsotti" alt="ybarsotti" /></a> </p>
 
-- 🌱 I’m currently learning **Data Sciencec**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://www.yuribarsotti.me](https://www.yuribarsotti.me)
 
