@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://www.yuribarsotti.me](https://www.yuribarsotti.me)
+<!--- 👨‍💻 All of my projects are available at [https://www.yuribarsotti.me](https://www.yuribarsotti.me) -->
 
 - 📫 How to reach me **https://www.linkedin.com/in/yuribarsotti/**
 
