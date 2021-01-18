@@ -8,7 +8,7 @@
 <!--- 👨‍💻 All of my projects are available at [https://www.yuribarsotti.me](https://www.yuribarsotti.me) -->
 
 - 📫 How to reach me **https://www.linkedin.com/in/yuribarsotti/**
-- Website: <a href="yuribarsotti.me/" target="blank">**yuribarsotti.me/**</a>
+- Website: <a href="https://www.yuribarsotti.me/" target="_blank">**yuribarsotti.me/**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
