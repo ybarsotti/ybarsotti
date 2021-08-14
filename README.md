@@ -31,7 +31,7 @@
     <img src="https://unpkg.com/simple-icons@v5/icons/amazonaws.svg" alt="aws" width="40" height="40"/> 
   </a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" alt="bash" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://unpkg.com/simple-icons@v5/icons/css3.svg" alt="css3" width="40" height="40"/> 
@@ -76,7 +76,7 @@
     <img src="https://unpkg.com/simple-icons@v5/icons/mysql.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://unpkg.com/simple-icons@v5/icons/nextjs.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/nextdotjs.svg" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://www.nginx.com" target="_blank">
     <img src="https://unpkg.com/simple-icons@v5/icons/nginx.svg" alt="nginx" width="40" height="40"/>
@@ -85,50 +85,32 @@
     <img src="https://unpkg.com/simple-icons@v5/icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
   </a> 
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/opencv.svg" alt="opencv" width="40" height="40"/> 
   </a> 
   <a href="https://www.php.net" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://unpkg.com/simple-icons@v5/icons/php.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/postgresql.svg" alt="postgresql" width="40" height="40"/>
   </a> 
   <a href="https://www.python.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://unpkg.com/simple-icons@v5/icons/python.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/react.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://redis.io" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/redis.svg" alt="redis" width="40" height="40"/> 
   </a> 
   <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    <img src="https://unpkg.com/simple-icons@v5/icons/redux.svg" alt="redux" width="40" height="40"/>
   </a> 
   <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/sass.svg" alt="sass" width="40" height="40"/> 
   </a> 
   <a href="https://www.selenium.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a> 
-  <a href="https://webpack.js.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
-  </a>
+    <img src="https://unpkg.com/simple-icons@v5/icons/selenium.svg" alt="selenium" width="40" height="40"/> 
+  </a>  
 </p>
 
 <p>
