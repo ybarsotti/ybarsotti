@@ -28,37 +28,25 @@
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/angularjs.svg" />
   </a>
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/amazonaws.svg" alt="aws" width="40" height="40"/> 
+  </a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://circleci.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/css3.svg" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://www.cypress.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
   </a> 
-  <a href="https://d3js.org/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-  </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/django.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/docker.svg" alt="docker" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://unpkg.com/simple-icons@v5/icons/express.svg" alt="express" width="40" height="40"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
