@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=7F5DF7&size=35&center=true&vCenter=true&height=150&lines=Hello+there%2C+;I'm+Yuri+Barsotti;Fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=8518F7&size=35&vCenter=true&height=100&lines=Hello+there;I'm+Yuri+Barsotti;Fullstack+Developer)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybarsotti&label=Profile%20views&color=0e75b6&style=plastic" alt="ybarsotti" /> </p>
