@@ -82,7 +82,7 @@
     <img src="https://unpkg.com/simple-icons@v5/icons/nginx.svg" alt="nginx" width="40" height="40"/>
   </a> 
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://unpkg.com/simple-icons@v5/icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://unpkg.com/simple-icons@v5/icons/nodedotjs.svg" alt="nodejs" width="40" height="40"/>
   </a> 
   <a href="https://opencv.org/" target="_blank">
     <img src="https://unpkg.com/simple-icons@v5/icons/opencv.svg" alt="opencv" width="40" height="40"/> 
