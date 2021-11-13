@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybarsotti&label=Profile%20views&color=0e75b6&style=plastic" alt="ybarsotti" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **dApp development**
 
 - 👨‍💻 Some of my projects are available at [yuribarsotti.me](https://www.yuribarsotti.me)
 - 📫 How to reach me **https://www.linkedin.com/in/yuribarsotti/**
