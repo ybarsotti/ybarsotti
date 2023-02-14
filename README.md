@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybarsotti&label=Profile%20views&color=0e75b6&style=plastic" alt="ybarsotti" /> </p>
 
-- 🌱 I’m currently learning **dApp development**
+- 🌱 I’m currently learning **Software Architecture**
 
-- 👨‍💻 Some of my projects are available at [yuribarsotti.me](https://www.yuribarsotti.me)
+- 👨‍💻 Some of my projects are available here [yuribarsotti.me](https://portfolio-yuribarsotti.vercel.app)
 - 📫 How to reach me **https://www.linkedin.com/in/yuribarsotti/**
 
 <h3 align="left">Connect with me:</h3>
