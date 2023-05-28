@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Software Architecture**
 
-- 👨‍💻 Some of my projects are available here [yuribarsotti.me](https://portfolio-yuribarsotti.vercel.app)
+- 👨‍💻 Some of my projects are available [here](https://portfolio-yuribarsotti.vercel.app)
 - 📫 How to reach me **https://www.linkedin.com/in/yuribarsotti/**
 
 <h3 align="left">Connect with me:</h3>
