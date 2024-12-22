@@ -19,6 +19,7 @@ I'm a highly curious software engineer with a passion for exploring new technolo
 As a hobby and for personal study, I’ve been creating games using Godot and learning pixel art. Part of my focus is also on mastering GoLang.  
 
 🔗 Find more here: https://linktr.ee/yuribarsotti
+
 💻 Public works: https://portfolio-yuribarsotti.vercel.app
 <br/>  
 
