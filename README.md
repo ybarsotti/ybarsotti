@@ -13,17 +13,14 @@
 </a>  
 </div>  
   
-
-
-
-### Glad to see you here!  
- I'm a highly curious software engineer with a passion for exploring new technologies. While my primary focus has been on backend development, I've also gained extensive experience as a full-stack developer.
+### Hey, listen!  
+I'm a highly curious software engineer with a passion for exploring new technologies. While my primary focus has been on backend development, I've also gained extensive experience as a full-stack developer.
 
 As a hobby and for personal study, I’ve been creating games using Godot and learning pixel art. Part of my focus is also on mastering GoLang.  
-  
 
+🔗 Find more here: https://linktr.ee/yuribarsotti
+💻 Public works: https://portfolio-yuribarsotti.vercel.app
 <br/>  
-
 
 ## Languages and Tools  
 <table><tr><td valign="top" width="33%">
