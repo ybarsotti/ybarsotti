@@ -20,7 +20,7 @@ As a hobby and for personal study, I’ve been creating games using Godot and le
 
 🔗 Find more here: https://linktr.ee/yuribarsotti
 
-💻 Public works: https://portfolio-yuribarsotti.vercel.app
+💻 Public work: https://portfolio-yuribarsotti.vercel.app
 <br/>  
 
 ## Languages and Tools  
