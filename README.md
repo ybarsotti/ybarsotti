@@ -25,6 +25,8 @@ Outside of tech, I'm an avid coffee enthusiast with a fully equipped setup. I ba
 💻 Public work: https://portfolio-yuribarsotti.vercel.app
 <br/>  
 
+![](./profile-3d-contrib/profile-night-view.svg)
+
 ## Languages and Tools  
 <table><tr><td valign="top" width="33%">
 
