@@ -84,11 +84,6 @@ Outside of tech, I'm an avid coffee enthusiast with a fully equipped setup. I ba
 </td></tr></table>  
 
 <br/>  
-<!--
-  <tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ybarsotti&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td>
--->
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -105,6 +100,7 @@ Outside of tech, I'm an avid coffee enthusiast with a fully equipped setup. I ba
 </td></tr></table>  
 
 <br/>  
+
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <br/>  
