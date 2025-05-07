@@ -32,7 +32,7 @@ I'm a highly inquisitive software engineer driven by a deep passion for explorin
 
 🔗 Find more here: https://linktr.ee/yuribarsotti
 
-💻 Public work: https://portfolio-yuribarsotti.vercel.app
+💻 Public work: https://yuribarsotti.tech
 <br/>  
 
 ## Languages and Tools  
