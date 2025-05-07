@@ -28,7 +28,7 @@ I'm a highly inquisitive software engineer driven by a deep passion for explorin
 <br/>  
 
 ## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=css,js,react,nextjs,html,jest,ts,mysql,nestjs,neovim,mongodb,redis,rabbitmq,nodejs,kafka,graphql,django,python,go,nginx,kubernetes,docker,aws,gcp,terraform,solidity,postgres,notion,godot,fastapi,astro&perline=15)](https://yuribarsotti.tech)
+[![My Skills](https://skillicons.dev/icons?i=css,js,react,nextjs,html,jest,ts,mysql,nestjs,neovim,mongodb,redis,rabbitmq,nodejs,kafka,graphql,django,python,go,nginx,kubernetes,docker,aws,gcp,terraform,solidity,postgres,notion,godot,fastapi,astro&perline=16)](https://yuribarsotti.tech)
 
 <br/>  
 
