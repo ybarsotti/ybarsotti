@@ -32,22 +32,11 @@ I'm a highly inquisitive software engineer driven by a deep passion for explorin
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybarsotti&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ybarsotti&&style=flat-square" align="center" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-<br/>  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ybarsotti&theme=date_night) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ybarsotti&theme=date_night) |
+|---|---|
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ybarsotti&theme=date_night&utcOffset=-3) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ybarsotti&theme=date_night) |
+|---|---|
 
