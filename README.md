@@ -12,7 +12,15 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<div align="center">
   
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/139183315071533056?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/139183315071533056)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/139183315071533056)](https://dev.discordprofiles.me/openspotify/139183315071533056)
+
+</div>  
+
 ### Hey, listen! 🧚🏼
 I'm a highly inquisitive software engineer driven by a deep passion for exploring cutting-edge technologies. While my expertise lies primarily in backend development, I've cultivated a broad skill set as a full-stack developer.
 
